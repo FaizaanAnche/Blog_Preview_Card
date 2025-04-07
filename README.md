@@ -8,7 +8,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Blog Preview Card]()
+- Live Site URL: [Blog Preview Card](https://faizaananche.github.io/Blog_Preview_Card/)
 
 ## Author
 
